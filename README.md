@@ -1,8 +1,11 @@
 ### Hello Everyone 👋
 ## AboutMe:
-- 🔭 I am a 2nd year :student: student at Pondicherry Technological University, Pondicherry (India). I am pursuing my Bachelors in Computer Science and Engineering.
+   I am a 2nd year :student: student at Pondicherry Technological University, Pondicherry (India). I am pursuing my Bachelors in Computer Science and Engineering.
  
-- 🌱 I’m currently learning Web-development, Frontend- HTML, CSS, JS, |Python|, |Java|
+ 👨‍💻 Code: HTML, CSS, C-programming, C++ , and Java. 🕸
+ 
+ 
+- 🌱 I’m currently learning Web-development, javascript, |Python|, DS
 - 📫 How to reach me:
 <br>Contact Me@ :
 
