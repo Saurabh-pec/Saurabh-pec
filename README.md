@@ -10,7 +10,7 @@
 :e-mail:      **saurabhkishor@pec.edu** 
 <br> :e-mail: **Saurabhkishor@yahoo.com**
 
-* [Linkedin:](**https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US**)
+* [Linkedin:]**https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US**
 <br>
 - ⚡ Fun fact: ... 
 Apart from coading and learning progamming also interested in play chess, blogging and travelling.
