@@ -1,16 +1,15 @@
 ### Hello Everyone 👋
 ## About:
-I am a 2nd year student at Pondicherry Technological University, Pondicherry, pursuing my Bachelors in Computer Science and Engineering.
-
- - 🔭 I’m currently Studing in Computer Science and Engineering department  at Puducherry Technical University in Pondicherry(India).
-- 🌱 I’m currently learning Web-development, Frontend- HTML, CSS, JS, |Python|
+- 🔭 I am a 2nd year student at Pondicherry Technological University, Pondicherry (India). I am pursuing my Bachelors in Computer Science and Engineering.
+ 
+- 🌱 I’m currently learning Web-development, Frontend- HTML, CSS, JS, |Python|, |Java|
 - 📫 How to reach me:
 <br>Contact Me0: saurabhkishor@pec.edu
 <br>             Saurabhkishor@yahoo.com
 <br>Linkedin: https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US
 <br>
 - ⚡ Fun fact: ... 
-apart from coading and learning progamming also interested in play chess, blogging and travelling.
+Apart from coading and learning progamming also interested in play chess, blogging and travelling.
 <!--
 **Saurabh-pec/Saurabh-pec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
