@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 ## About:
-- 🔭 I am a 2nd year student at Pondicherry Technological University, Pondicherry (India). I am pursuing my Bachelors in Computer Science and Engineering.
+- 🔭 I am a 2nd year :student: student at Pondicherry Technological University, Pondicherry (India). I am pursuing my Bachelors in Computer Science and Engineering.
  
 - 🌱 I’m currently learning Web-development, Frontend- HTML, CSS, JS, |Python|, |Java|
 - 📫 How to reach me:
@@ -10,7 +10,7 @@
 :e-mail:      **saurabhkishor@pec.edu** 
 <br> :e-mail: **Saurabhkishor@yahoo.com**
 
-* Linkedin: **https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US**
+* [Linkedin:](**https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US**)
 <br>
 - ⚡ Fun fact: ... 
 Apart from coading and learning progamming also interested in play chess, blogging and travelling.
