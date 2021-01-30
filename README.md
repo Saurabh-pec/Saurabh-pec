@@ -4,11 +4,12 @@
  
 - 🌱 I’m currently learning Web-development, Frontend- HTML, CSS, JS, |Python|, |Java|
 - 📫 How to reach me:
-<br>Contact Me0: <br> Mail Id: 
-:e-mail:  **saurabhkishor@pec.edu** 
-<br> :e-mail: **Saurabhkishor@yahoo.com**
+<br>Contact Me0: <br>
 
-<br>Linkedin: https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US
+* Mail Id: 
+:e-mail:      **saurabhkishor@pec.edu** 
+<br> :e-mail: **Saurabhkishor@yahoo.com**
+<br> * Linkedin: https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US
 <br>
 - ⚡ Fun fact: ... 
 Apart from coading and learning progamming also interested in play chess, blogging and travelling.
