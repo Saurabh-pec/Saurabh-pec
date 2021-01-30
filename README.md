@@ -8,7 +8,7 @@
 
    * Mail Id: 
     :e-mail:       **saurabhkishor@pec.edu** 
-    <br>           :e-mail:  **Saurabhkishor@yahoo.com**
+    <br>               :e-mail:  **Saurabhkishor@yahoo.com**
 
    * [Linkedin:] **https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US**
   <br>
