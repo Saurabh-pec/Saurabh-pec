@@ -1,5 +1,5 @@
 ### Hello Everyone 👋
-## About:
+## AboutMe:
 - 🔭 I am a 2nd year :student: student at Pondicherry Technological University, Pondicherry (India). I am pursuing my Bachelors in Computer Science and Engineering.
  
 - 🌱 I’m currently learning Web-development, Frontend- HTML, CSS, JS, |Python|, |Java|
