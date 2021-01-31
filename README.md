@@ -16,7 +16,8 @@
    * [Linkedin:] **https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US**
   <br>
 - ⚡ Fun fact: ... 
-Apart from coading and learning progamming also interested in play chess, blogging and travelling.
+Apart from coding and learning progamming also interested in playing chess, blogging and travelling
+
 <!--
 **Saurabh-pec/Saurabh-pec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
