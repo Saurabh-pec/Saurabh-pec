@@ -2,11 +2,11 @@
 ## AboutMe:
    I am a 2nd year :student: student at Pondicherry Technological University, Pondicherry (India). I am pursuing my Bachelors in Computer Science and Engineering.
  
- 👨‍ 💻 **Code:**  HTML, CSS, C-programming, C++ , and Java. 🕸
+ -**👨‍ 💻 Code:**  HTML, CSS, C-programming, C++ , and Java. 🕸
  
  
-- 🌱 I’m currently learning Web-development, javascript, |Python|, DS
-- 💬 Ask me about ... I am Saurabh kishor student of Computer Science and Engineering at Pondicherry Technological University, Pondicherry (India). <br>
+- **🌱 I’m currently learning...** Web-development, javascript, |Python|, DS
+- **💬 Ask me about ...** I am Saurabh kishor student of Computer Science and Engineering at Pondicherry Technological University, Pondicherry (India). <br>
                       Aim of My life is "To implement my skill in the real world scenario and innovate  better way to optimize  problems."
 
  📫 How to reach me:
@@ -15,7 +15,7 @@
    * Mail Id: 
     :e-mail:       **saurabhkishor@pec.edu** 
     <br>           ` `  :e-mail:  **Saurabhkishor@yahoo.com**
-  * [Linkedin:] **https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US**
+  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin:] (**https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US**)
   <br>
 - ⚡ Fun fact: ... 
 Apart from coding and learning progamming also interested in playing chess, blogging and travelling
