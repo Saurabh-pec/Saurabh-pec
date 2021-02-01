@@ -16,8 +16,8 @@
     :e-mail:       **saurabhkishor@pec.edu** 
     <br>           ` `  :e-mail:  **Saurabhkishor@yahoo.com**
     <br>
- [<img align="left" alt=" Saurabh-pec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US)
-  <br>
+ [<img align="left" alt=" Saurabh-pec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/saurabh-k-134b37199)
+<br>
 - ⚡ Fun fact: ... 
 Apart from coding and learning progamming also interested in playing chess, blogging and travelling
 
