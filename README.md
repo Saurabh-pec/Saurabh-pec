@@ -1,4 +1,4 @@
-### Hello Everyone 👋
+### Hello Everyone! I'm Saurabh Kishor 👋
 ## AboutMe:
    I am a 2nd year :student: student at Pondicherry Technological University, Pondicherry (India). I am pursuing my Bachelors in Computer Science and Engineering.
  
@@ -6,19 +6,16 @@
  
  
 - 🌱 I’m currently learning Web-development, javascript, |Python|, DS
-<!-- 📫 How to reach me:
-<br>Contact Me@ : -->
+- 💬 Ask me about ... I am Saurabh kishor student of Computer Science and Engineering at Pondicherry Technological University, Pondicherry (India). <br>
+                      Aim of My life is "To implement my skill in the real world scenario and innovate  better way to optimize  problems."
 
-### Connect with me:
+ 📫 How to reach me:
+<br>Contact Me@ : -->
 
    * Mail Id: 
     :e-mail:       **saurabhkishor@pec.edu** 
     <br>           ` `  :e-mail:  **Saurabhkishor@yahoo.com**
-
-[<img align="left" alt="Saurabh-pec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/saurabh-k-134b37199/)
-[<img align="left" alt="Saurabh-pec | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-  <!-- * [Linkedin:] **https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US**-->
+  * [Linkedin:] **https://www.linkedin.com/in/saurabh-k-134b37199/?locale=en_US**
   <br>
 - ⚡ Fun fact: ... 
 Apart from coding and learning progamming also interested in playing chess, blogging and travelling
@@ -38,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <details>
+  
    
 <!--START_SECTION:activity
 1. ❌ Closed PR [#1](https://github.com/Saurabh-pec/build-responsive-website/pull/1) in [Saurabh-pec/build-responsive-website]
@@ -53,9 +50,5 @@ Here are some ideas to get you started:
 (https://github.com/Saurabh-pec/Saurabh-pec-vscode-theme) 
 -->
 <!--END_SECTION:activity-->
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Saurabh Kishor's GitHub Stats" src="https://github-readme-stats.Saurabh-pec.vercel.app/api?username=Saurabh-pec&show_icons=true&hide_border=true" />
-</details>
+
