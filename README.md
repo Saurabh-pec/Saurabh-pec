@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  
+  <details>
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/Saurabh-pec/build-responsive-website/pull/1) in [Saurabh-pec/build-responsive-website]
 (https://github.com/Saurabh-pec/build-responsive-website)
@@ -46,3 +46,9 @@ Here are some ideas to get you started:
 5. ❗️ Closed issue [#6](https://github.com/Saurabh-pec/Saurabh-pec-vscode-theme/issues/6) in [Saurabh-pec/Saurabh-pec-vscode-theme]
 (https://github.com/Saurabh-pec/Saurabh-pec-vscode-theme)
 <!--END_SECTION:activity-->
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Saurabh Kishor's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+</details>
