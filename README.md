@@ -32,3 +32,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/Saurabh-pec/build-responsive-website/pull/1) in [Saurabh-pec/build-responsive-website]
+(https://github.com/Saurabh-pec/build-responsive-website)
+2. ❗️ Closed issue [#4](https://github.com/Saurabh-pec/codestackr-vscode-theme/issues/4) in [Saurabh-pec/Saurabh-pec-vscode-theme]
+(https://github.com/Saurabh-pec/Saurabh-pec-vscode-theme)
+3. 🗣 Commented on [#4](https://github.com/Saurabh-pec/codestackr-vscode-theme/issues/4) in [Saurabh-pec/Saurabh-pec-vscode-theme]
+(https://github.com/codeSTACKr/Saurabh-pec-vscode-theme)
+4. 🎉 Merged PR [#7](https://github.com/Saurabh-pec/codestackr-vscode-theme/pull/7) in [Saurabh-pec/Saurabh-pec-vscode-theme]
+(https://github.com/Saurabh-pec/Saurabh-pec-vscode-theme)
+5. ❗️ Closed issue [#6](https://github.com/Saurabh-pec/Saurabh-pec-vscode-theme/issues/6) in [Saurabh-pec/Saurabh-pec-vscode-theme]
+(https://github.com/Saurabh-pec/Saurabh-pec-vscode-theme)
+<!--END_SECTION:activity-->
