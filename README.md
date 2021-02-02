@@ -12,7 +12,15 @@
                       Aim of My life is "To implement my skill in the real world scenario and innovate  better way to optimize  problems."-->
 
  📫 How to reach me:
-<br>Contact Me@ : -->
+### Connect with me: 
+
+
+      
+   [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](Website" width="22px"           src="https://saurabh-pec.github.io/)
+   [<img align="left" alt="Gmail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<a href = "mailto:Saurabhkishor@yahoo.com">Send Email</a>)
+   [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/saurabh-k-134b37199)
+   <!--[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+   <br />
 
    * Mail Id: 
     :e-mail:       **saurabhkishor@pec.edu** 
