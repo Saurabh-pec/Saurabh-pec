@@ -11,6 +11,11 @@
 <!-- **💬 Ask me about ...** I am Saurabh kishor student of Computer Science and Engineering at Pondicherry Technological University, Pondicherry (India). <br>
                       Aim of My life is "To implement my skill in the real world scenario and innovate  better way to optimize  problems."-->
 
+-**⚡ Fun fact: ...** 
+Apart from coding and learning progamming also interested in playing chess, blogging and travelling
+<!--![alt text](http://url/to/img.png)-->
+<br>
+
  📫 How to reach me:
 ### Connect with me: 
 
@@ -29,10 +34,7 @@
     <br>
  [<img align="left" alt=" Saurabh-pec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/saurabh-k-134b37199)
 <br>-->
-- ⚡ Fun fact: ... 
-Apart from coding and learning progamming also interested in playing chess, blogging and travelling
-<!--![alt text](http://url/to/img.png)-->
-<br>
+
 
 ### Languages and Tools:
 
