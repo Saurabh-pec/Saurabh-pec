@@ -21,10 +21,10 @@ Apart from coding and learning progamming also interested in playing chess, blog
 
 
       
-   [<img align="left" alt="Gmail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](saurabhkishor@pec.edu)
+   [<img align="left" alt="Gmail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:saurabhkishor@pec.edu)
    [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/saurabh-k-134b37199)
   
-   [<img align="left" alt="Gmail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](https://mail.yahoo.com/mailto:saurabhkishor@yahoo.com) 
+   [<img align="left" alt="Gmail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:saurabhkishor@yahoo.com) 
    <!--[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
    <br />
 
