@@ -1,9 +1,10 @@
 ### Hello Everyone! I'm Saurabh Kishor 👋
 ## AboutMe:
    I am a 2nd year :student: student at Pondicherry Technological University, Pondicherry (India). I am pursuing my Bachelors in Computer Science and Engineering.
+   <br> **"To implement my skill in the real world scenario and innovate  better way to optimize  problems."**
+   
  - **🔭 I’m currently working on ...** visual studio
  -**👨‍ 💻 Code:**  HTML, CSS, C-programming, C++ , and Java. 🕸
- 
  
 - **🌱 I’m currently learning...** Web-development, javascript, |Python|, DS
 <!-- **💬 Ask me about ...** I am Saurabh kishor student of Computer Science and Engineering at Pondicherry Technological University, Pondicherry (India). <br>
