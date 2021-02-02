@@ -6,8 +6,8 @@
  
  
 - **🌱 I’m currently learning...** Web-development, javascript, |Python|, DS
-- **💬 Ask me about ...** I am Saurabh kishor student of Computer Science and Engineering at Pondicherry Technological University, Pondicherry (India). <br>
-                      Aim of My life is "To implement my skill in the real world scenario and innovate  better way to optimize  problems."
+<!-- **💬 Ask me about ...** I am Saurabh kishor student of Computer Science and Engineering at Pondicherry Technological University, Pondicherry (India). <br>
+                      Aim of My life is "To implement my skill in the real world scenario and innovate  better way to optimize  problems."-->
 
  📫 How to reach me:
 <br>Contact Me@ : -->
