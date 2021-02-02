@@ -24,9 +24,9 @@ Apart from coding and learning progamming also interested in playing chess, blog
 <br>
 <!--[![Saurabh Kishor's Github stats](https://github-readme-stats.vercel.app/api?username=SaurabhKishor&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)]
 <br>-->
-<img align="left" alt = "Saurabh Kishor's Github stats" src = "https://github-readme-stats.vercel.app/api?username=SaurabhKishor&&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img align="left" alt = "Saurabh Kishor's Github stats" src = "https://github-readme-stats.vercel.app/api?username=SaurabhK-pec&&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
-![Saurabh Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh-pec&hide=contribs,prs)
+<!--![Saurabh Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh-pec&hide=contribs,prs)-->
 
 
 <!--[![Saurabh Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhKishor&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)]-->
