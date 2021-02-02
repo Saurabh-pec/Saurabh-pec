@@ -22,13 +22,9 @@ Apart from coding and learning progamming also interested in playing chess, blog
 
       
    [<img align="left" alt="Gmail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:saurabhkishor@pec.edu)
-   
    [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/saurabh-k-134b37199)
-
-   [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/saurabh-k-134b37199)
-  
    [<img align="left" alt="Gmail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:saurabhkishor@yahoo.com) 
-   <!--[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+   [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://saurabh221.medium.com)
    <br />
 
   <!-- * Mail Id: 
