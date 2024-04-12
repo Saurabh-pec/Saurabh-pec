@@ -1,19 +1,16 @@
 ### Hello Everyone! I'm Saurabh Kishor 👋
-## AboutMe:
-   I am a passionate software engineer currently working in a multinational corporation (MNC), where I contribute to the development of cutting-edge software solutions.
-   <br> **"To implement my skill in the real world scenario and innovate  better way to optimize  problems."**
-   
- - **🔭 I’m currently working on ...** visual studio
- 
- -**👨‍ 💻 Code:**  Python, HTML, CSS, C-programming, C++ , and Java. 🕸
- 
-- **🌱 I’m currently learning...** Machine Learning, GenAI, Advanced javascript (ES6), |Python|, DS
-<!-- **💬 Ask me about ...** . <br>
-                      Aim of My life is "To implement my skill in the real world scenario and innovate  better way to optimize  problems."-->
 
--**⚡ Fun fact: ...** 
-Apart from coding and learning progamming also interested in playing chess, blogging and travelling
-<!--![alt text](http://url/to/img.png)-->
+## About Me:
+I am a passionate software engineer currently working in a multinational corporation (MNC), where I contribute to the development of cutting-edge software solutions.
+
+**Aim of My Life:** "To implement my skill in the real-world scenario and innovate a better way to optimize problems."
+
+- **🔭 I’m currently working on ...** Visual Studio
+- **👨‍ 💻 Code:** Python, HTML, CSS, C-programming, C++, and Java.
+- **🌱 I’m currently learning...** Machine Learning, GenAI, Advanced JavaScript (ES6), Python, DS
+
+**⚡ Fun Fact:** Apart from coding and learning programming, I'm also interested in playing chess, blogging, and traveling.
+
 <br>
 
  📫 How to reach me:
